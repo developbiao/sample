@@ -8337,6 +8337,11 @@ button.close {
   background-color: #3c3e42;
 }
 
+#logo {
+  font-size: 20px;
+  font-weight: bold;
+}
+
 /* footer */
 
 footer {
