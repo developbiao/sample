@@ -4,7 +4,7 @@
       <a href="/" id="logo">Sample App</a>
       <nav>
         <ul class="nav navbar-nav navbar-right">
-          <li><a href="/help">帮助</a></li>
+          <li><a href="{{ route('help') }}">帮助</a></li>
           <li><a href="#">登陆</a></li>
         </ul>
       </nav>
